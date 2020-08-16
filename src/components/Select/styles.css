@@ -1,0 +1,9 @@
+.select-block select {
+    height: 2rem;
+    margin-top: 0.8rem;
+    background: #FFFF;
+    border: 1px solid #FFFF;
+    outline: 0;
+    font: 1rem Archivo;
+    margin-left: 24px;
+}

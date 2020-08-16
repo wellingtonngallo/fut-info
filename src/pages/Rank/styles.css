@@ -1,0 +1,30 @@
+.table-stading {
+    padding: 24px;
+    width: 50rem;
+}
+
+.table-stading td {
+    border-bottom: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.table-stading th {
+    border-bottom: 1px solid #dddddd;
+    border-top: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.table-stading {
+  
+    font-size: 1rem;
+}
+
+.table-stading th {
+    text-align: left;
+}
+
+.table-stading .table-center {
+    text-align: center;
+}
