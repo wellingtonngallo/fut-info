@@ -1,6 +1,6 @@
 ### Quanto tempo você usou para completar a solução apresentada? O que você faria se tivesse mais tempo?
 
-Em media de 8 horas. Se tivesse mais tempo melhoraria a parte de teste unitario, desde que comecei trabalhar com Angular não tive mais contato com React, e tentei usar uma das libs que está bem falada no mercado para teste de interface que é o testing-library, além disso, colocaria uma section ao lado da tabela, para informar os proximos jogos, sendo possivel navegar para jogos anteriores. E também estatistica de jogadores, pra que seja possivel visualizar saldo de gol, time que joga etc.
+Em media de 8 horas. Se tivesse mais tempo melhoraria a parte de teste unitario, desde que comecei trabalhar com Angular não tive mais contato com React, e tentei usar uma das libs que está bem falada no mercado para teste de interface que é o testing-library, além disso, colocaria uma section ao lado da tabela, para informar os proximos jogos, sendo possivel navegar para jogos anteriores. E também estatistica de jogadores, pra que seja possivel visualizar saldo de gol, time que joga etc. Também olharia com mais calma a parte de estil da tela, responsividade da tabela enfim, da pra fazer varias coisas com essa api, achei bem legal a ideia. Tirei um tempo no fim da semana, apesar do prazo ser só dia 21, durante a semana está bem corrido, estou escrevendo TCC da faculdade, além de hoje começar o Bootcamp da Rocketseat também.
 
 ### Se usou algum framework javascript, qual foi o motivo de ter usado este? Caso contrário, por que não utilizou nenhum?
 
