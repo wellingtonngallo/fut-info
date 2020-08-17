@@ -1,3 +1,8 @@
+.select-block {
+    display: flex;
+    justify-content: center;
+}
+
 .select-block select {
     height: 2rem;
     margin-top: 0.8rem;

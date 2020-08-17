@@ -4,7 +4,7 @@ import './styles.css';
 function Menu() {
 	return (
         <header className="page-header">
-            <div className="header-content">
+            <div className="header-content" data-testid="menu">
                 <strong>Tudo sobre o seu campeonato favorito</strong>
                 <p>Para visualizar os dados basta utilizar os filtros abaixo</p>
             </div>

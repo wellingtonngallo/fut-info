@@ -1,0 +1,6 @@
+.empty-list {
+    display: flex;
+    align-items: center;
+    height: 20rem;
+    text-align: center;
+}

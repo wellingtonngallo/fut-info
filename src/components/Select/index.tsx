@@ -4,7 +4,7 @@ import './styles.css';
 interface SelectProps extends SelectHTMLAttributes<HTMLSelectElement> {
     name: string;
     options: Array<{
-        id: string;
+        id: number;
         name: string;
     }>;
 }
@@ -12,7 +12,7 @@ interface SelectProps extends SelectHTMLAttributes<HTMLSelectElement> {
 const Select: React.FC<SelectProps> = ({name, options, ...rest}) => {
     return (
         <div className="select-block">
-            <select value="" id={name} {...rest}>
+            <select value="" id={name} {...rest} data-testid="input-select">
                 <option value="" disabled hidden>Selecione uma opção</option>
                 {
                     options.map(option => {
